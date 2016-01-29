@@ -1,6 +1,6 @@
 # GIT TRAINING README
 
-> Something else on master. I don't know what.
+Somethin else on master. I don't know what.
 
-## Something Else Mean
+## Something Else
 ## Chris is an immature child.
